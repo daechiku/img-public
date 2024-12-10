@@ -27,11 +27,11 @@
         "rate": 6.91,
         "nisbah": 48
     },
-    {
-        "jw": 6,
+     {
+        "jw": 12,
         "jenis": "dep",
-        "ket": "6 Bulan",
-        "rate": 7.34,
-        "nisbah": 51
+        "ket": "12 Bulan",
+        "rate": 7.06,
+        "nisbah": 49
     }
 ]
