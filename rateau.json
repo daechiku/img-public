@@ -3,35 +3,35 @@
         "jw": 1,
         "jenis": "tab",
         "ket": "Tabungan Mudharabah",
-        "rate": 1.33,
+        "rate": 1.68,
         "nisbah": 11
     },
     {
         "jw": 1,
         "jenis": "dep",
         "ket": "1 Bulan",
-        "rate": 4.97,
+        "rate": 4.93,
         "nisbah": 41
     },
     {
         "jw": 3,
         "jenis": "dep",
         "ket": "3 Bulan",
-        "rate": 5.33,
+        "rate": 5.29,
         "nisbah": 44
     },
     {
         "jw": 6,
         "jenis": "dep",
         "ket": "6 Bulan",
-        "rate": 5.81,
+        "rate": 5.77,
         "nisbah": 48
     },
      {
         "jw": 12,
         "jenis": "dep",
         "ket": "12 Bulan",
-        "rate": 5.94,
+        "rate": 5.89,
         "nisbah": 49
     }
 ]
